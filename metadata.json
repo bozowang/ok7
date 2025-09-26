@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 美食外送",
+  "description": "一個美食外送 Web 應用程式，它使用 Gemini API 來動態生成餐廳列表、菜單和訂單詳情。使用者可以瀏覽餐廳、將商品加入購物車、結帳並收到確認訊息，訂單資料會儲存到 Google Sheets。",
+  "requestFramePermissions": []
+}
